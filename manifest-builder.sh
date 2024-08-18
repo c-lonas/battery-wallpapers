@@ -19,6 +19,8 @@ correct themeing by the wall-tools script in my nixos configuration.
 The script can also prune entries from the manifest in the case 
 that wallpapers have been removed from the target directory.
 
+Note that the actual tags are to be maintained by hand.
+
 Requires jq
 
 Usage: 
